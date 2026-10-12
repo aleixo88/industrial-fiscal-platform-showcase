@@ -3,6 +3,10 @@
 > Technical showcase of a proprietary B2B platform for industrial operations,
 > shipping verification, pre-invoicing and governed Brazilian fiscal workflows.
 
+[Leia em portugues](README.pt-BR.md) | [Architecture](ARCHITECTURE.md) |
+[Technical evidence](EVIDENCE.md) | [Current status](STATUS.md) |
+[Evaluation process](EVALUATION.md)
+
 ## Purpose of this repository
 
 This public repository presents the problem addressed, the architecture, the
